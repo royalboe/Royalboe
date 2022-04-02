@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Royalboe
-- 👀 I’m interested in Data Analytics, Data Science, Programming, ML
+- 👋 Hi, I’m Ayomide
+- 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Programming Languages (Kotlin and Python)
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any interesting android app project
 - 📫 How to reach me on Twitter at @_Royalboe
 
 <!---
