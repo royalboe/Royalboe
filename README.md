@@ -2,5 +2,6 @@
 - 👀 I’m interested in software and cloud engineering
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on any interesting projects
-- 📫 How to reach me on Twitter at [@_Royalboe](hhtps://twitter.com/_Royalboe)
+- 📫 How to reach me: Twitter at [@_Royalboe](https://twitter.com/_Royalboe) Mail: <a href="mailto:auomidejohnson@gmail.com">auomidejohnson@gmail.com</a>
+  LinkedIn: <a href="www.linkedin.com/in/ayomidejohnsonsalami">Ayomide Johnson Salami<a/>
 - [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
