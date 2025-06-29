@@ -42,4 +42,4 @@
 
 ## 📈 GitHub Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Royalboe&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="Ayomide's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?user_
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Royalboe&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Ayomide's GitHub stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Royalboe&langs_count=8&layout=compact&hide_border=true" alt="Top languages" /> </p> <p align="center"> <img src="https://gpvc.arturio.dev/Royalboe" alt="Profile views"> </p>
